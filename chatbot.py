@@ -191,7 +191,7 @@ def response(user_select,message):
 
 
 ## テーブルQA全体にユーザの質問がなかったらteamsに送信
-# teamsに送信するロジック
+## teamsに送信するロジック(379行目のコメント状態を解除して実行)
 # def teams_trans(message):
 #   # TeamsのWebhook URL
 #   webhook_url = ''
