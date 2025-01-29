@@ -4,8 +4,8 @@
 -ユーザーの入力に基づいてデータベース上のデータから回答
 
 ## Reference Image
-![チャットボット参考１](Readme\チャットボット１.gif)
-![チャットボット参考２](Readme\チャットボット２.gif)
+![チャットボット参考１](https://github.com/tsm-ay7/Rulebase_ChatBot/blob/main/Readme/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%91.gif)
+![チャットボット参考２](https://github.com/tsm-ay7/Rulebase_ChatBot/blob/main/Readme/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%92.gif)
 
 
 ## Dependency
